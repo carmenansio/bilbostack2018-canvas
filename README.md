@@ -13,3 +13,7 @@ Bilbostack 2018 resources and slides
 
 ## Talks
 - [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
+
+## Server
+- [WebRTC](https://webrtc.org/) - P2P communication perhaps crash with too many people.
+- [Glitch/Heroku](https://glitch.com) - Server with sockets. (https://emisario.glitch.com)
