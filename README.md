@@ -17,6 +17,9 @@ Bilbostack 2018 resources and slides
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 
+## Repos
+- [Generative Design code](https://github.com/generative-design/) - Code resources from Generative Design Book.
+
 ## Talks
 - [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
 
