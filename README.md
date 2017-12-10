@@ -14,6 +14,7 @@ Bilbostack 2018 resources and slides
 - [PlayCanvas](https://playcanvas.com/) - Make games and interactive experiences.
 
 ## Books
+- [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 
 ## Talks
