@@ -29,7 +29,7 @@ Bilbostack 2018 resources and slides
 - [HTML5 Canvas: From Noob to Ninja](https://www.amazon.es/HTML5-Canvas-Noob-Ninja-English-ebook/dp/B01DCPPO32/ref=sr_1_5)
 - [Learn Pixi.js](https://www.amazon.es/Learn-Pixi-js-Rex-van-Spuy/dp/1484210956/ref=tmm_pap_swatch_0)
 
-### WebGL `3D`
+### WebGL
 - [Webgl Beginner's Guide](https://www.amazon.es/Webgl-Beginners-Guide-Diego-Cantor/dp/184969172X/ref=tmm_pap_swatch_0)
 - [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL)](https://www.amazon.es/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920/ref=tmm_pap_swatch_0)
 - [Three.js Cookbook](https://www.amazon.es/Three-js-Cookbook-Jos-Dirksen/dp/1783981180/ref=tmm_pap_swatch_0)
@@ -37,7 +37,7 @@ Bilbostack 2018 resources and slides
 - [Learning Three.js - the JavaScript 3D Library for WebGL](https://www.amazon.es/Learning-Three-js-JavaScript-Library-Second/dp/1784392219/ref=tmm_pap_swatch_0)
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages](https://www.amazon.es/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966/ref=sr_1_2)
 
-### Generative Art / Creative Coding
+### Generative Art / Creative Coding
 
 - [Nature of Code](http://natureofcode.com/) - Simulations of natural systems.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
