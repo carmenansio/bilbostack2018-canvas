@@ -37,7 +37,7 @@ Bilbostack 2018 resources and slides
 - [Learning Three.js - the JavaScript 3D Library for WebGL](https://www.amazon.es/Learning-Three-js-JavaScript-Library-Second/dp/1784392219/ref=tmm_pap_swatch_0)
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages](https://www.amazon.es/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966/ref=sr_1_2)
 
-### Generative Art | Creative Coding
+### Generative Art / Creative Coding
 
 - [Nature of Code](http://natureofcode.com/) - Simulations of natural systems.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
