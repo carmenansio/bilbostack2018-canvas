@@ -43,6 +43,10 @@ Bilbostack 2018 resources and slides
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 
+### Tools
+
+- [Processing to p5.js converter](http://faculty.purchase.edu/joseph.mckay/p5jsconverter.html) - This is a find/replace converter for turning simple Processing sketches into p5.js code.
+
 ## Repos
 
 - [Generative Design code](https://github.com/generative-design/) - Code resources from Generative Design Book.
