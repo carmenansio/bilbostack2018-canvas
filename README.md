@@ -35,6 +35,7 @@ Bilbostack 2018 resources and slides
 - [Three.js Cookbook](https://www.amazon.es/Three-js-Cookbook-Jos-Dirksen/dp/1783981180/ref=tmm_pap_swatch_0)
 - [Three.js Essentials](https://www.amazon.es/Three-js-Essentials-Jos-Dirksen/dp/9351107167/ref=tmm_pap_swatch_0)
 - [Learning Three.js - the JavaScript 3D Library for WebGL](https://www.amazon.es/Learning-Three-js-JavaScript-Library-Second/dp/1784392219/ref=tmm_pap_swatch_0)
+- [Learning Three.js](http://learningthreejs.com/)
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages](https://www.amazon.es/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966/ref=sr_1_2)
 
 ### Generative Art / Creative Coding
