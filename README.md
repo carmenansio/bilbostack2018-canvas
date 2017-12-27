@@ -56,6 +56,7 @@ Bilbostack 2018 resources and slides
 - [Codevember 2016 by Jaume Sanchez](https://github.com/spite/codevember-2016)
 - [Codevember 2017 by Jaume Sanchez](https://github.com/spite/codevember-2017)
 - [P5js Projects by Sanne](https://github.com/sannek/p5_projects)
+- [demos](https://github.com/rreusser/demos) - These demos are made using [regl](https://github.com/regl-project/regl), [plotly.js](https://github.com/plotly/plotly.js), and [d3.js](https://d3js.org/).
 
 ## Awesome list
 
