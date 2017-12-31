@@ -14,6 +14,7 @@ Bilbostack 2018 resources and slides
 - [Three.js](https://threejs.org/) - Interactive 3D graphics.
 - [Pixi.js](http://www.pixijs.com/) - Create digital content with 2D WebGL renderer.
 - [PlayCanvas](https://playcanvas.com/) - Make games and interactive experiences.
+- [CreateJS](https://createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 
 ## Playgrounds
 
