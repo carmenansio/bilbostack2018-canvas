@@ -19,7 +19,7 @@ Bilbostack 2018 resources and slides
 ## Playgrounds
 
 - [P5.js online editor](http://alpha.editor.p5js.org/) - P5 online editor.
-- [Open Processing](https://www.openprocessing.org/) - Algorithmic Designfor the Creative Hive
+- [Open Processing](https://www.openprocessing.org/) - Algorithmic Design for the Creative Hive
 
 ## Books
 
