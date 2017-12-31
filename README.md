@@ -116,6 +116,7 @@ Bilbostack 2018 resources and slides
 - [Ricardo Cabello](https://twitter.com/mrdoob)
 - [Saskia Freeke](https://twitter.com/sasj_nl)
 - [Szenia Zadvornykh](https://twitter.com/zadvorsky)
+- [Takashi](https://twitter.com/bird_wt)
 - [Terkel G](https://twitter.com/terkelg)
 - [The Coding Train](https://twitter.com/thecodingtrain)
 - [Yancy Way](https://twitter.com/yancyway)
