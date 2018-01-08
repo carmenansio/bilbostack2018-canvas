@@ -87,6 +87,7 @@ Bilbostack 2018 resources and slides
 - [Polygon Shredder](https://www.clicktorelease.com/code/polygon-shredder/)
 - [FLUUUID](http://fluuu.id/)
 - [codedoodl.es](http://codedoodl.es/)
+- [ruff-cycles](http://store.ruff-cycles.com/customizer/ruff-cycles-customize-your-bike.html) - Customize your bike
 
 ## Shame Samples
 
