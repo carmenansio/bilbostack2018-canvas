@@ -6,7 +6,7 @@ Bilbostack 2018 resources and slides
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/) - Canvas API Mozilla developer network.
 - [W3C Canvas 2D Context](https://w3c.github.io/2dcontext/) - This specification defines the 2D Context for the HTML canvas element.
 - [Canvas](http://w3.unpocodetodo.info/canvas/introduccion.php) - The best spanish documentation about <canvas>
-- [HTML5 Canvas Cheat Sheet] (https://simon.html5.org/dump/html5-canvas-cheat-sheet.html) - Canvas Cheat Sheet
+- [HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html) - Canvas cheat sheet
 
 ## Frameworks
 
