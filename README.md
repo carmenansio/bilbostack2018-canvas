@@ -16,6 +16,7 @@ Bilbostack 2018 resources and slides
 - [Pixi.js](http://www.pixijs.com/) - Create digital content with 2D WebGL renderer.
 - [PlayCanvas](https://playcanvas.com/) - Make games and interactive experiences.
 - [CreateJS](https://createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+- [Phaser](https://phaser.io/) - Game framework.
 - [Html5GameEngines](http://html5gameengine.com/) - JavaScript game engines - frameworks comparative list.
 
 ## Playgrounds
