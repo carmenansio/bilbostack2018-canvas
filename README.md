@@ -1,4 +1,7 @@
-# Bilbostack 2018: Con &lt;canvas> y a lo loco
+# Bilbostack 2018: Con
+
+<canvas> y a lo loco</canvas>
+
 Bilbostack 2018 resources and slides
 
 ## Docs
@@ -27,6 +30,7 @@ Bilbostack 2018 resources and slides
 ## Books
 
 ### <canvas>
+
 - [HTML5 Canvas](https://www.amazon.es/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1) - Native Interactivity and Animation for the Web
 - [Physics for JavaScript Games, Animation, and Simulations: with HTML5 Canvas](https://www.amazon.es/Physics-JavaScript-Games-Animation-Simulations/dp/1430263377/ref=tmm_pap_swatch_0)
 - [Foundation HTML5 Animation with JavaScript](https://www.apress.com/us/book/9781430236658)
@@ -34,6 +38,7 @@ Bilbostack 2018 resources and slides
 - [Learn Pixi.js](https://www.amazon.es/Learn-Pixi-js-Rex-van-Spuy/dp/1484210956/ref=tmm_pap_swatch_0)
 
 ### WebGL
+
 - [Webgl Beginner's Guide](https://www.amazon.es/Webgl-Beginners-Guide-Diego-Cantor/dp/184969172X/ref=tmm_pap_swatch_0)
 - [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL (OpenGL)](https://www.amazon.es/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920/ref=tmm_pap_swatch_0)
 - [Three.js Cookbook](https://www.amazon.es/Three-js-Cookbook-Jos-Dirksen/dp/1783981180/ref=tmm_pap_swatch_0)
@@ -43,6 +48,7 @@ Bilbostack 2018 resources and slides
 - [Programming 3D Applications with HTML5 and WebGL: 3D Animation and Visualization for Web Pages](https://www.amazon.es/Programming-Applications-HTML5-WebGL-Visualization/dp/1449362966/ref=sr_1_2)
 - [stack.gl](http://stack.gl/) - is an open software ecosystem for WebGL, built on top of browserify and npm.
 - [nanogl](http://plepers.github.io/nanogl/) - webgl micro framework.
+- [Three.js demos](https://github.com/saucecode/threejs-demos) - Video tutorials and code.
 
 ### Generative Art / Creative Coding
 
@@ -75,14 +81,17 @@ Bilbostack 2018 resources and slides
 - [CCapture.js](https://github.com/spite/ccapture.js) - A library to capture canvas-based animations
 
 ## Talks
+
 - [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
 
 ## Server
+
 - [WebRTC](https://webrtc.org/) - P2P communication perhaps crash with too many people.
-- [Glitch/Heroku](https://glitch.com) - Server with sockets. (https://emisario.glitch.com)
+- [Glitch/Heroku](https://glitch.com) - Server with sockets. (<https://emisario.glitch.com>)
 - [WebSockets](https://developer.mozilla.org/es/docs/WebSockets-840092-dup) - Communication between user and server.
 
 ## Awesome Samples
+
 - [Infinitown](http://demos.littleworkshop.fr/infinitown) `3D` `Threejs`
 - [Field](https://www.field.io/) - Creative studio in London combine art + technology.
 - [Iphone X](https://www.apple.com/es/iphone-x/) - Iphone X Demo.
