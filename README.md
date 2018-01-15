@@ -6,6 +6,7 @@ Bilbostack 2018 resources and slides
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/) - Canvas API Mozilla developer network.
 - [W3C Canvas 2D Context](https://w3c.github.io/2dcontext/) - This specification defines the 2D Context for the HTML canvas element.
 - [Canvas](http://w3.unpocodetodo.info/canvas/introduccion.php) - The best spanish documentation about <canvas>
+- [HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html) - Canvas cheat sheet
 
 ## Frameworks
 
@@ -15,6 +16,8 @@ Bilbostack 2018 resources and slides
 - [Pixi.js](http://www.pixijs.com/) - Create digital content with 2D WebGL renderer.
 - [PlayCanvas](https://playcanvas.com/) - Make games and interactive experiences.
 - [CreateJS](https://createjs.com/) - A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
+- [Phaser](https://phaser.io/) - Game framework.
+- [Html5GameEngines](http://html5gameengine.com/) - JavaScript game engines - frameworks comparative list.
 
 ## Playgrounds
 
@@ -86,6 +89,7 @@ Bilbostack 2018 resources and slides
 - [Polygon Shredder](https://www.clicktorelease.com/code/polygon-shredder/)
 - [FLUUUID](http://fluuu.id/)
 - [codedoodl.es](http://codedoodl.es/)
+- [ruff-cycles](http://store.ruff-cycles.com/customizer/ruff-cycles-customize-your-bike.html) - Customize your bike
 
 ## Shame Samples
 
@@ -115,6 +119,7 @@ Bilbostack 2018 resources and slides
 - [Ricardo Cabello](https://twitter.com/mrdoob)
 - [Saskia Freeke](https://twitter.com/sasj_nl)
 - [Szenia Zadvornykh](https://twitter.com/zadvorsky)
+- [Takashi](https://twitter.com/bird_wt)
 - [Terkel G](https://twitter.com/terkelg)
 - [The Coding Train](https://twitter.com/thecodingtrain)
 - [Yancy Way](https://twitter.com/yancyway)
