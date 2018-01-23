@@ -89,6 +89,7 @@ Bilbostack 2018 resources and slides
 - [WebRTC](https://webrtc.org/) - P2P communication perhaps crash with too many people.
 - [Glitch/Heroku](https://glitch.com) - Server with sockets. (<https://emisario.glitch.com>)
 - [WebSockets](https://developer.mozilla.org/es/docs/WebSockets-840092-dup) - Communication between user and server.
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 
 ## Awesome Samples
 
