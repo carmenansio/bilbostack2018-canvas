@@ -1,8 +1,6 @@
-# Bilbostack 2018: Con
+# Bilbostack 2018: Con canvas y a lo loco
 
-<canvas> y a lo loco</canvas>
-
-Bilbostack 2018 resources and slides
+Bilbostack 2018 resources
 
 ## Docs
 
